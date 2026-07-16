@@ -1,0 +1,7 @@
+# 公開しない作業用ファイル
+.DS_Store
+.claude/
+内容改善レビュー.md
+
+# ビフォーアフターの元素材（サイトからは未参照・容量大）
+audio/HUM_NA_ripnoise_*.wav
